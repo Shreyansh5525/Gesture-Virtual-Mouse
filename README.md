@@ -253,7 +253,7 @@ Note: Use Python version: 3.8.5
   
   # 👨‍💻 Collaborators
 
-Debasish Dey        - Project Lead & Developer
-Shreyansh Kumar     - Computer Vision & Integration
+Debasish Dey        - Project Lead & Developer  git: https://github.com/DebasisHX
+Shreyansh Kumar     - Computer Vision & Integration git: https://github.com/Shreyansh5525
 
   
