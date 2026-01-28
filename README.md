@@ -252,7 +252,7 @@ Note: Use Python version: 3.8.5
   ```
   
   # 👨‍💻 Author
-  Shreyansh Kumar
+  Shreyansh Kumar - https://github.com/Shreyansh5525/
 
 
   
